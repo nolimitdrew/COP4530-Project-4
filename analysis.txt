@@ -1,0 +1,7 @@
+// HW4 - Analysis.txt
+// Andrew Stade
+// 11/6/2020
+
+Using the worst-case run-time complexity, the Big O for the makeEmpty() function in this instance 
+would be O(n) because the function calls itself recursivley clearing the nodes in the tree, and
+then deleting the node pointer.
